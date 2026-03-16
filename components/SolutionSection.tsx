@@ -29,19 +29,18 @@ export default function SolutionSection() {
         <div className="hidden md:flex flex-col justify-between" style={{ height: "500px" }}>
           <div>
             <span style={{ color: "#FF0044" }} className="font-bold text-2xl">
-              Quantum
+              Sicher
             </span>
-            <span style={{ color: "#666" }}> – Sicher</span>
           </div>
           <div>
             <span style={{ color: "#FFE600" }} className="font-bold text-2xl">
-              Slipstream
+              Nutzbar
             </span>
-            <span style={{ color: "#666" }}> – Nutzbar</span>
           </div>
           <div>
-            <span className="font-bold text-2xl gradient-wake">Wake</span>
-            <span style={{ color: "#666" }}> – Sichtbar</span>
+            <span className="font-bold text-2xl gradient-wake">
+              Sichtbar
+            </span>
           </div>
         </div>
       </div>
