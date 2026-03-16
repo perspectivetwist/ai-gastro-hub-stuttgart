@@ -15,8 +15,8 @@ export default function HeroSection() {
 
         {/* Hook Headline */}
         <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-6 max-w-4xl">
-          Ist dein Restaurant{" "}
-          <span className="gradient-accent">bereit für die KI-Ära?</span>
+          4 kostenlose KI-Scanner{" "}
+          <span className="gradient-accent">f&uuml;r dein Restaurant</span>
         </h1>
 
         {/* Sub */}
@@ -24,9 +24,8 @@ export default function HeroSection() {
           className="text-xl md:text-2xl mb-10 max-w-2xl mx-auto"
           style={{ color: "#cccccc" }}
         >
-          ChatGPT, Perplexity und Gemini empfehlen Restaurants, buchen Tische
-          und bewerten Erlebnisse. Wer nicht sichtbar, nutzbar und sicher ist,
-          verliert Gäste. Ohne es zu merken.
+          Pr&uuml;fe Sichtbarkeit, Reputation, Agent-Readiness und Sicherheit
+          deines Restaurants in der KI-&Auml;ra &mdash; kostenlos und in 60 Sekunden.
         </p>
 
         {/* CTA */}
