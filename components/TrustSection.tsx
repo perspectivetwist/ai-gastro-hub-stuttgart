@@ -1,26 +1,32 @@
 export default function TrustSection() {
-  const scanners = [
+  const ecosystem = [
+    {
+      name: "AI-GASTRO-HUB",
+      desc: "AI-Readiness für die Gastronomie",
+      url: "https://ai-gastro-hub.vercel.app",
+      color: "#FF006E",
+    },
     {
       name: "Wake | AEO",
-      desc: "Kann ChatGPT deine Restaurant-Website lesen?",
+      desc: "Wird dein Restaurant von ChatGPT&Co zitiert?",
       url: "https://aeo-gastro.vercel.app",
       color: "#6366f1",
     },
     {
       name: "Wake | GEO",
-      desc: "Kennt ChatGPT den Ruf deines Restaurants?",
+      desc: "Kennt ChatGPT&Co den Ruf deines Restaurants?",
       url: "https://geo-gastro.vercel.app",
       color: "#A8E6A3",
     },
     {
       name: "Slipstream",
-      desc: "Kann KI bei deinem Restaurant reservieren?",
+      desc: "Können Gäste via KI-Agenten bei deinem Restaurant reservieren?",
       url: "https://agentready-gastro.vercel.app",
       color: "#FFE600",
     },
     {
       name: "Quantum",
-      desc: "Ist dein Restaurant vor KI-Angriffen geschützt?",
+      desc: "Wie angreifbar ist dein Restaurant bei KI-Attacken?",
       url: "https://aisecurity-gastro.vercel.app",
       color: "#FF1744",
     },
@@ -44,7 +50,7 @@ export default function TrustSection() {
             Teil des AI-Shift-Drift Ökosystems
           </div>
           <div className="flex flex-col gap-4">
-            {scanners.map((s) => (
+            {ecosystem.map((s) => (
               <a
                 key={s.name}
                 href={s.url}
