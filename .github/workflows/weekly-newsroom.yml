@@ -58,7 +58,14 @@ jobs:
 
           TONALITÄT: Direkt, klar, ohne Buzzwords. Wie ein erfahrener Kollege nach dem Feierabend.
           NICHT: "Die Implementierung von LLM-basierten Algorithmen revolutioniert..."
-          SONDERN: "ChatGPT empfiehlt dein Restaurant -- wenn du das eine Ding machst"`;
+          SONDERN: "ChatGPT empfiehlt dein Restaurant -- wenn du das eine Ding machst"
+
+          SCHREIBREGELN:
+          - Keine langen Gedankenstriche (—). Stattdessen: Doppelpunkt (:), Punkt (.) oder neuer Satz.
+          - Keine Aufzählungszeichen am Satzanfang
+          - Keine generischen KI-Formulierungen wie "In der heutigen Zeit", "Es gilt zu beachten", "Die Implementierung von"
+          - Kurze Sätze. Max 20 Wörter pro Satz.
+          - Aktiv schreiben, nicht passiv`;
 
           const USER_PROMPT = `Recherchiere die wichtigsten KI-News für Gastronomen aus der Woche vom ${lastWeekDate} bis ${date} (KW ${kw-1}/${year}).
 

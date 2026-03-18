@@ -32,8 +32,7 @@ export default function NewsroomOverview() {
               href={`/newsroom/${article.slug}`}
               className="bg-white/5 border border-white/10 rounded-xl p-6 hover:bg-white/10 transition group block"
             >
-              <div className="flex items-center gap-2 mb-3">
-                <span className="text-base">🍳</span>
+              <div className="mb-3">
                 <span className="text-xs text-gray-500">KW {article.kw} · {article.date}</span>
               </div>
               <h2 className="font-bold text-white text-sm leading-snug mb-4 group-hover:text-gray-200 transition">
