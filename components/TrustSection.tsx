@@ -1,5 +1,18 @@
 export default function TrustSection() {
-  const ecosystem = [
+  const ecosystem: { name: string; desc: string; url: string; color: string; internal?: boolean }[] = [
+    {
+      name: "AI-Gastro-Hub",
+      desc: "AI-Readiness für die Gastronomie",
+      url: "https://ai-gastro-hub.vercel.app",
+      color: "#FF006E",
+    },
+    {
+      name: "KI-Gastro-Newsroom",
+      desc: "Was KI für die Gastronomie bedeutet, jeden Montag neu",
+      url: "/newsroom",
+      color: "#FF006E",
+      internal: true,
+    },
     {
       name: "Wake | AEO",
       desc: "Wird dein Restaurant von ChatGPT&Co zitiert?",
@@ -49,8 +62,7 @@ export default function TrustSection() {
                 key={s.name}
                 href={s.url}
                 className="flex items-start gap-3 group"
-                target="_blank"
-                rel="noopener noreferrer"
+                {...(!s.internal ? { target: "_blank", rel: "noopener noreferrer" } : {})}
               >
                 <div
                   className="w-[6px] h-[6px] rounded-full flex-shrink-0 mt-1"
