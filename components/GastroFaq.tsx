@@ -5,50 +5,30 @@ import { ShieldCheck, DatabaseZap, Flag, ChevronDown } from 'lucide-react'
 
 const faqItems = [
   {
-    question: 'Was macht AI-Shift-Drift einzigartig?',
-    answer: 'AI-Shift-Drift ist kein Webdesign-Tool. AI-Shift-Drift misst, ob KI-Systeme dein Restaurant kennen, deine Website nutzen können, und ob du sicher aufgestellt bist für eine Welt, in der Agenten und Maschinen im Netz handeln. Vier Scanner, drei Scores, eine Wahrheit. Und einen konkreten Aktionsplan.',
+    question: 'Was ist AI Shift Drift für Restaurants?',
+    answer: 'AI Shift Drift ist eine kostenlose KI-Readiness-Plattform speziell für deutsche Restaurants und Gastronomiebetriebe — mit 4 Scannern für Sichtbarkeit, Reputation, Agent-Bereitschaft und Sicherheit.',
     alwaysOpen: true,
     showUsps: true,
   },
   {
-    question: 'Warum gibt es AI-Shift-Drift und warum jetzt?',
-    answer: 'Weil KI-Agenten bereits einkaufen, buchen und kontaktieren, und die meisten Restaurants dafür nicht bereit sind. ChatGPT, Perplexity und Gemini handeln zunehmend autonom im Auftrag von Nutzern. Wer technisch nicht zugänglich ist, wird übersprungen. Der Wandel passiert gerade, nicht irgendwann.',
+    question: 'Für welche Gastronomiebetriebe ist AI Shift Drift geeignet?',
+    answer: 'Für Restaurants, Cafés, Bars, Lieferdienste und Catering-Unternehmen die verstehen wollen ob sie für die KI-Ära bereit sind — ohne IT-Kenntnisse.',
   },
   {
-    question: 'Ich hab eine Website und bin bei Google. Warum reicht das nicht mehr?',
-    answer: 'Weil deine Gäste zunehmend ChatGPT, Perplexity oder Gemini fragen. Diese Systeme lesen deine Website anders als Google. Wer dort nicht sichtbar ist, existiert für einen wachsenden Teil der Gäste schlicht nicht.',
+    question: 'Was kostet AI Shift Drift?',
+    answer: 'Alle 4 Scanner sind kostenlos nutzbar. Kein Account, keine Kreditkarte.',
   },
   {
-    question: 'Was ist der Unterschied zwischen AEO, GEO, Slipstream und Quantum?',
-    answer: 'Wake / AEO misst, ob ChatGPT deine Website lesen und zitieren kann. Wake / GEO misst, ob ChatGPT deinen Ruf kennt: Bewertungen, Erwähnungen, Profil. Slipstream misst, ob KI-Agenten durch deine digitale Infrastruktur handeln können. Quantum misst, wie sicher du gegen KI-gestützte Angriffe aufgestellt bist. Vier verschiedene Fragen, ein Gesamtbild.',
+    question: 'Was ist der Unterschied zwischen den 4 Scannern?',
+    answer: 'AEO prüft ob ChatGPT dein Restaurant findet. GEO prüft ob ChatGPT deinen Ruf kennt. Slipstream prüft ob KI-Agenten buchen können. Quantum prüft deine Sicherheit.',
   },
   {
-    question: 'Ich hab keine Zeit für sowas. Wie lang dauert ein Scan?',
-    answer: 'Unter 60 Sekunden. URL eingeben, fertig. Den Rest macht AI-Shift-Drift. Was du danach hast: einen konkreten Score und eine priorisierte Liste, was du oder dein Webentwickler ändern muss. Keine Theorie, keine Agenturpräsentation.',
+    question: 'Warum brauche ich KI-Readiness als Restaurant?',
+    answer: 'Weil ChatGPT und KI-Agenten übernehmen wie Gäste Restaurants finden und reservieren. Wer jetzt nicht sichtbar ist, verliert diese Gäste automatisch.',
   },
   {
-    question: 'Ich bin Gastronom / Hotelier / Café-Betreiber, das ist doch nichts für mich?',
-    answer: 'Doch, genau für dich. Gäste fragen ChatGPT nach Restaurantempfehlungen, KI-Agenten buchen Tische, Fake-Bewertungen bedrohen deinen Ruf. Jeder Gastro-Betrieb mit einer Website braucht AI-Readiness.',
-  },
-  {
-    question: 'Ich hab meinen Score. Was jetzt? Was ändert sich konkret in meinem Business?',
-    answer: 'Wer seine Scores auf über 80 bringt, taucht in KI-Antworten auf, kann von Agenten genutzt werden, ist sicher. Neue Anfragen, zusätzlicher Umsatz ohne Werbebudget.',
-  },
-  {
-    question: 'Ich hab das schon mal bei einer Agentur machen lassen. Was ist der Unterschied?',
-    answer: 'Agenturen optimieren für Google von gestern. AI-Shift-Drift misst die Kanäle von morgen: KI-Sichtbarkeit, Agenten-Nutzbarkeit, KI-Sicherheit. Das sind neue Disziplinen, für die es bisher kein einheitliches Messinstrument gab.',
-  },
-  {
-    question: 'Was passiert mit meinen Daten?',
-    answer: 'AI-Shift-Drift scannt nur öffentlich zugängliche Informationen, genau das, was KI-Systeme auch sehen. Keine Zugangsdaten, kein Login, kein Eingriff in deine Systeme. DSGVO-konform, Made in Germany.',
-  },
-  {
-    question: 'Muss ich danach meine Website neu bauen?',
-    answer: 'Meistens nicht. Die meisten Verbesserungen sind kleine technische Anpassungen: strukturierte Daten, FAQ-Format, Konsistenz in Verzeichnissen. Was du bzw. dein Webentwickler in ein bis zwei Stunden umsetzen kann, hat oft den größten Effekt.',
-  },
-  {
-    question: 'Ist das einmalig oder brauche ich das regelmäßig?',
-    answer: 'KI-Systeme lernen laufend. Was heute gut ist, kann in drei Monaten veraltet sein. Deshalb macht AI-Shift-Drift einen zweiten Kanal messbar. Nicht einmalig, sondern als laufendes Signal, ob dein Restaurant im KI-Raum sichtbar bleibt.',
+    question: 'Wie fange ich an?',
+    answer: 'Starte mit dem AEO Scanner — gib deine Restaurant-URL ein und sieh in 30 Sekunden deinen KI-Sichtbarkeits-Score.',
   },
 ]
 

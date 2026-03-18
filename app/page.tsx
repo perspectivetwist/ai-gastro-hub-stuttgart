@@ -11,6 +11,11 @@ export default function Home() {
   return (
     <>
       <HeroSection />
+      <section className="max-w-2xl mx-auto px-4 py-6 text-center">
+        <p className="text-sm text-gray-400 leading-relaxed">
+          AI Shift Drift ist die kostenlose KI-Readiness-Plattform f&uuml;r deutsche Restaurants und Gastronomiebetriebe &mdash; mit 4 Scannern f&uuml;r Sichtbarkeit, Reputation, Agent-Bereitschaft und Sicherheit.
+        </p>
+      </section>
       <ProblemSection />
       <MoreProblemsSection />
       <SolutionSection />
