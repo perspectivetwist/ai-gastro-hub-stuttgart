@@ -3,41 +3,45 @@
   "kw": 10,
   "year": 2026,
   "date": "09. März 2026",
-  "headline": "ChatGPT macht dein Restaurant sichtbar: Gäste entdecken dich jetzt über KI-Suche",
+  "headline": "70 Euro pro Gast: Wie NOI Köln mit KI den Gastro-Award räumt",
   "zahl_der_woche": {
-    "zahl": "70 Prozent",
-    "kontext": "So viele Restaurantsuchen laufen 2026 über dialogbasierte KI-Fragen statt klassische Google-Suche. Wer dort nicht auftaucht, verliert Gäste."
+    "zahl": "70 Euro Umsatz pro Gast",
+    "kontext": "Bei nur 45 Quadratmetern Fläche: Das ist das Drei- bis Vierfache des DACH-Durchschnitts und zeigt, was KI-gesteuerte Personalplanung wirklich bringt."
   },
   "news": [
     {
-      "titel": "TheFork baut Reservierungen direkt in ChatGPT ein",
-      "was_passiert": "Die Plattform TheFork hat ihre Buchungsfunktion in ChatGPT integriert. Gäste können jetzt im Chat ein Restaurant suchen und direkt reservieren ohne die Plattform zu verlassen. Das erste Mal können Nutzer ein Lokal über ein natürliches Gespräch mit der KI entdecken.",
-      "was_bedeutet_das": "Dein Restaurant ist nur sichtbar, wenn du auf TheFork oder ähnlichen Plattformen ordnungsgemäß eingetragen bist und die Daten korrekt sind. Ohne Präsenz dort landest du nicht in den Antworten, die ChatGPT gibt. Überprüfe diese Woche dein Profil."
+      "titel": "NOI gewinnt Deutschen Gastro-Gründerpreis",
+      "was_passiert": "Das Köln-Restaurant NOI wurde Gewinner des Deutschen Gastro-Gründerpreises 2026. Die KI steuert dort Personalplanung, Einkauf und Tischbelegung. Auf 45 Quadratmetern erwirtschaftet NOI 70 Euro Umsatz pro Gast.",
+      "was_bedeutet_das": "Das ist nicht nur eine Anerkennung: Es zeigt, dass KI-Automatisierung für kleine Restaurants (unter 20 Mitarbeitern) rentabel funktioniert. Dein Konkurrenz-Restaurant um die Ecke könnte schon ähnlich arbeiten. Die Frage ist nicht mehr ob, sondern wann du nachziehst."
     },
     {
-      "titel": "Kölner Restaurant NOI gewinnt mit KI-gestütztem Betrieb",
-      "was_passiert": "Das Restaurant NOI aus Köln erhielt den Deutschen Gastro-Gründerpreis 2026. Der Grund: Es verbindet italienische Küche mit datengestützter Verwaltung. KI steuert dort Personalplanung, Einkauf und Tischbelegung vollautomatisch. Das kleine Restaurant (45 qm) erreicht 70 Euro Umsatz pro Gast bei minimaler Verschwendung.",
-      "was_bedeutet_das": "Das zeigt: KI ist nicht nur für große Ketten relevant. Kleine inhabergeführte Restaurants können damit Dienstpläne in Minuten aufstellen, Menüs kalkulieren und TripAdvisor-Bewertungen automatisch beantworten statt per Hand. Der Preis beweist: Das ist bereits gelebte Realität."
+      "titel": "Food Waste sinkt um 30 Prozent durch KI",
+      "was_passiert": "KI-Einkaufsplanung reduziert Lebensmittelverschwendung um bis zu 30 Prozent. Die Systeme nutzen automatische Bestellvorschläge basierend auf Wetter, Buchungen und historischen Daten. Das funktioniert überall: Beim Bäcker genauso wie im Fine-Dining.",
+      "was_bedeutet_das": "30 Prozent weniger Abfall bedeutet direkt mehr Gewinn in deiner Bilanz. Wenn du aktuell 500 Euro Lebensmittel pro Woche wegwirfst, spart dir die KI 150 Euro. Das ist Geld, das aktuell im Müll landet. Solche Systeme sind 2026 auch für kleine Restaurants zugänglich."
     },
     {
-      "titel": "Deutsche bevorzugen ChatGPT und Perplexity zum Restaurantsuchen",
-      "was_passiert": "Eine Studie von OpenTable zeigt: Deutsche planen 2026 gezielt, KI-Tools wie ChatGPT oder Perplexity zu nutzen um Restaurants zu entdecken. Das ändert den kompletten Suchweg: Nicht Google Maps, sondern der Chatbot wird zur ersten Anlaufstelle.",
-      "was_bedeutet_das": "Der klassische SEO-Weg über Google wird schwächer. Wichtig wird: vollständige Daten in Gastro-Apps, korrekt gepflegte Profile und konkrete, detaillierte Bewertungen. Diese helfen der KI, dein Restaurant empfehlen zu können. Fake-Reviews schaden jetzt deutlich mehr, weil die KI Qualität aktiv bewertet."
+      "titel": "Tische intelligenter verteilen: 15% mehr Auslastung",
+      "was_passiert": "L'Osteria testet KI-gestützte Tischbelegung. Algorithmen weisen Tische in Echtzeit optimal zu. Das Resultat: 15 Prozent mehr Auslastung und höherer Umsatz pro Kopf.",
+      "was_bedeutet_das": "Wenn dein Restaurant freitags 60 Gäste fasst, werden daraus 69 mit dem System. Das sind pro Freitag 3.000 bis 5.000 Euro zusätzlicher Umsatz bei gleichbleibender Personalausstattung. Die KI sieht kombinationen und Timing-Fenster, die dein Hostess übersieht."
     }
   ],
-  "handlungsempfehlung": "Überprüfe diese Woche deine Präsenz auf OpenTable, TheFork und Google Business. Alle Daten aktuell? Öffnungszeiten korrekt? Speisekarte hochgeladen? Dann fordere aktiv Gäste-Bewertungen ein. Detaillierte, konkrete Bewertungen helfen der KI, dein Restaurant zu empfehlen. 20 Minuten reichen.",
+  "handlungsempfehlung": "Prüfe diese Woche: Welche Prozesse in deinem Restaurant verschwenden Zeit oder Geld? (Personalplanung, Lagerbestandsverwaltung, Tischverwaltung). Mache eine Liste mit den Top-3-Punkten. Damit hast du nächste Woche ein konkretes Lastenheft für ein KI-Tool.",
   "seo": {
-    "title": "ChatGPT findet dein Restaurant: Das musst du wissen | KW 10",
-    "metaDescription": "KW 10: 70% der Gäste suchen via ChatGPT statt Google. Wir zeigen, was du diese Woche tun musst, um sichtbar zu sein.",
-    "keywords": "KI Sichtbarkeit Restaurant, ChatGPT Reservierungen, KI-Suche Gastronomie, TheFork ChatGPT",
+    "title": "KI-Gastro KW 10: 70€ pro Gast bei NOI Köln",
+    "metaDescription": "KW 10: NOI gewinnt Gründerpreis mit KI-Personalplanung. Food Waste sinkt 30%. L'Osteria boomt mit Tisch-KI. Für DACH-Restaurants.",
+    "keywords": "KI Gastronomie, Personalplanung, Food Waste Reduktion, Tischbelegung Optimierung",
     "canonicalUrl": "https://ai-gastro-hub.vercel.app/newsroom/kw-10-2026",
     "datePublished": "2026-03-09T10:00:00.000Z",
     "internalLinks": [
       {
         "url": "https://aeo-gastro.vercel.app",
-        "text": "Prüfe kostenlos ob ChatGPT dein Restaurant findet"
+        "text": "Prüfe kostenlos: Findet ChatGPT dein Restaurant?"
+      },
+      {
+        "url": "https://agentready-gastro.vercel.app",
+        "text": "Prüfe ob KI-Agenten bei dir buchen können"
       }
     ]
   },
-  "generatedAt": "2026-03-18T19:01:18.510Z"
+  "generatedAt": "2026-03-18T19:21:21.099Z"
 }

@@ -3,41 +3,45 @@
   "kw": 9,
   "year": 2026,
   "date": "02. März 2026",
-  "headline": "TheFork bringt Reservierungen in ChatGPT: Dein Restaurant wird anders gefunden",
+  "headline": "Speisekarten in Sekunden, Bewertungen im Autopilot: Das sind die Tools, die laufen",
   "zahl_der_woche": {
-    "zahl": "70%",
-    "kontext": "So viel Prozent aller Restaurant-Suchanfragen sollen 2026 über KI wie ChatGPT und Perplexity laufen. Wenn dein Google-Profil nicht optimal ist, wirst du übersehen."
+    "zahl": "unter 60 Sekunden",
+    "kontext": "So lange brauchst du jetzt maximal, um eine komplette Speisekarte mit KI zu erstellen und online zu gehen."
   },
   "news": [
     {
-      "titel": "TheFork integriert Reservierungen in ChatGPT",
-      "was_passiert": "Die Reservierungsplattform TheFork ist offizieller Launch-Partner von OpenAI. Gäste können jetzt direkt in ChatGPT Restaurants entdecken und buchen, ohne die App zu verlassen. Gleichzeitig arbeitet OpenTable an der gleichen Integration.",
-      "was_bedeutet_das": "Du brauchst jetzt eine saubere Präsenz in OpenTable, TheFork oder ähnlichen Systemen. Wenn dein Restaurant dort nicht auftaucht oder fehlerhaft beschrieben ist, buchen Gäste schon in ChatGPT bei der Konkurrenz. Kontrolliere diese Woche dein Profil."
+      "titel": "Yumzi Gastro GPT: Speisekarten zum Tippen",
+      "was_passiert": "Das österreichische Startup Yumzi hat ein KI-Tool gelauncht, das deine Speisekarte in Sekunden erstellt. Digital und gedruckt. Nutzer berichten von besseren Google-Bewertungen und höherem Durchschnittsumsatz nach der Optimierung.",
+      "was_bedeutet_das": "Du sparst Stunden bei der Menü-Gestaltung. Die KI schlägt auch Preise vor und optimiert Beschreibungen für Google. Dein Restaurant wird in Bewertungs-Apps besser gefunden, weil die Karten relevanter werden."
     },
     {
-      "titel": "Neue KI-Sichtbarkeit braucht konsistente Daten überall",
-      "was_passiert": "KI-Systeme wie ChatGPT kombinieren Infos von deiner Website, Google-Profil, Social Media, Bewertungen und Branchenportalen. Wenn Öffnungszeiten, Adresse oder Küchenstil sich widersprechen, sortiert dich die KI aus. Das deutsche Startup Raitify automatisiert jetzt auch das Bewertungsmanagement mit KI.",
-      "was_bedeutet_das": "Überprüfe diese Woche, ob deine Daten überall gleich sind: Google My Business, Website, Facebook, Instagram, TheFork, TripAdvisor. Falsche oder veraltete Infos kosten dir Buchungen. Nutze die Zeit, um das zu korrigieren. Das dauert max. 90 Minuten."
+      "titel": "Raitify: Dein KI-Assistent für Bewertungen",
+      "was_passiert": "Das deutsche Startup Raitify automatisiert Bewertungsmanagement komplett. Deine KI antwortet auf Google- und TripAdvisor-Reviews in Sekunden. Nicht generisch, sondern auf deine bisherigen Antworten trainiert.",
+      "was_bedeutet_das": "Du verlierst keine Zeit mehr mit Bewertungs-Antworten. Das spart echte Arbeitsstunden in der Woche. Gleichzeitig erhöht sich dein Profil-Score, weil du schneller antwortest. Gäste sehen: Hier kümmert sich jemand."
     },
     {
-      "titel": "Yumzi: KI-Tool für digitale und physische Speisekarten",
-      "was_passiert": "Das österreichische Startup Yumzi Gastro GPT lässt dich in Sekunden digitale und physische Speisekarten erstellen. Du beschreibst einfach, was du möchtest, die KI generiert das ganze Menü. Nutzer berichten von besseren Google-Bewertungen und höheren Durchschnittsumsätzen.",
-      "was_bedeutet_das": "Wenn deine Speisekarte veraltet ist oder zu lang, kostet dich das Geld. KI-Tools wie Yumzi kosten unter 100 Euro im Monat. Diese Woche: Prüfe, ob deine Karte noch passt. Falls nicht, teste Yumzi kostenlos oder nutze ChatGPT, um Gerichte zu streichen und deine Margen zu optimieren."
+      "titel": "EU AI Act: Neue Regeln für deine KI",
+      "was_passiert": "Seit 2026 gilt der EU AI Act auch für kleine Restaurants. Du musst KI-generierte Inhalte kennzeichnen (Speisekarten, Bewertungs-Antworten, Website-Texte). KI-Chatbots auf deiner Website brauchen Datenschutzerklärungen.",
+      "was_bedeutet_das": "Bei Yumzi und ähnlichen Tools musst du künftig sichtbar machen: Hier arbeitet eine KI mit. Das ist keine Verbotsliste, sondern Transparenz. Chatbots auf deiner Website sollten jetzt ein Privacy-Banner haben. Das ist eher eine Formalität als teuer, aber du solltest es wissen."
     }
   ],
-  "handlungsempfehlung": "Prüfe heute deine Sichtbarkeit bei OpenTable/TheFork. Kontrolliere: Sind deine Öffnungszeiten, Adresse und Küchenbeschreibung überall identisch? Falls nicht, korrigiere. Dann teste ChatGPT oder Perplexity: Schreib eine Frage wie 'Gutes Restaurant für Geschäftsessen in [deine Stadt]' und schau, ob du findbar bist. Die 20 Minuten Arbeit jetzt sparen dir monatliche Buchungen.",
+  "handlungsempfehlung": "Schau dir diese Woche Yumzi und Raitify an: 15 Minuten kostenlos testen. Deine Speisekarten können sofort besser werden. Und überprüfe: Hast du irgendwelche KI-Tools auf deiner Website? Dann ergänze eine kurze Zeile in der Datenschutzerklärung.",
   "seo": {
-    "title": "ChatGPT findet dein Restaurant: KI-Sichtbarkeit prüfen | KW 9 2026",
-    "metaDescription": "KW 9: TheFork in ChatGPT, neue KI-Sichtbarkeit. So wirst du in ChatGPT, Perplexity & Gemini gefunden. Kostenlos checken, wie dein Restaurant bei KI-Suche rankt.",
-    "keywords": "ChatGPT Restaurant, KI-Suche Gastronomie, AIO Optimization Restaurant, Sichtbarkeit in ChatGPT",
+    "title": "Neue KI-Tools für Speisekarten und Bewertungen | KW 9",
+    "metaDescription": "KW 9 2026: Yumzi und Raitify automatisieren Speisekarten und Bewertungsantworten. Was Restaurants jetzt beachten müssen.",
+    "keywords": "KI Speisekarten, Bewertungsmanagement KI, Yumzi, Raitify",
     "canonicalUrl": "https://ai-gastro-hub.vercel.app/newsroom/kw-9-2026",
     "datePublished": "2026-03-02T10:00:00.000Z",
     "internalLinks": [
       {
-        "url": "https://aeo-gastro.vercel.app",
-        "text": "Pruefe kostenlos ob ChatGPT dein Restaurant findet"
+        "url": "https://geo-gastro.vercel.app",
+        "text": "Kostenloser KI-Reputations-Check für dein Restaurant"
+      },
+      {
+        "url": "https://aisecurity-gastro.vercel.app",
+        "text": "Kostenloser KI-Sicherheits-Check für dein Restaurant"
       }
     ]
   },
-  "generatedAt": "2026-03-18T18:59:50.427Z"
+  "generatedAt": "2026-03-18T19:21:06.395Z"
 }

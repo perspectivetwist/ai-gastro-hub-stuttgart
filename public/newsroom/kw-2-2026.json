@@ -3,41 +3,45 @@
   "kw": 2,
   "year": 2026,
   "date": "12. Januar 2026",
-  "headline": "ChatGPT findet dein Restaurant jetzt von selbst: Wenn dein Profil stimmt",
+  "headline": "ChatGPT reserviert jetzt direkt bei TheFork. Dein Tisch wird zum Chat-Command.",
   "zahl_der_woche": {
-    "zahl": "70 Prozent",
-    "kontext": "So viele Gastsuchen laufen 2026 über KI-Dialoge wie ChatGPT. Dein Lokal muss darin auftauchen."
+    "zahl": "20.000 Euro",
+    "kontext": "Restaurants mit optimiertem Menü steigern ihren Jahresumsatz durch KI-Menu-Engineering um diesen Betrag."
   },
   "news": [
     {
-      "titel": "ChatGPT und TheFork: So buchen Gäste jetzt direkt im Chat",
-      "was_passiert": "TheFork hat als erste große Reservierungsplattform ihre Buchungsfunktion in ChatGPT integriert. Gäste können jetzt über Dialoge mit der KI Restaurants entdecken und direkt reservieren – ohne die Plattform zu verlassen.",
-      "was_bedeutet_das": "Für dein Restaurant: Wenn du nicht im System auftauchst, verpasst du Reservierungen. Prüfe diese Woche, ob dein Profil auf TheFork/OpenTable aktuell ist. Tatsache ist: KI empfiehlt nur Restaurants mit klaren Infos, echten Bildern und konsistenten Daten."
+      "titel": "TheFork startet ChatGPT-Integration",
+      "was_passiert": "TheFork und OpenAI haben sich zusammengetan. Gäste können jetzt direkt im ChatGPT-Chat ein Tisch bei dir reservieren. Sie müssen dafür die TheFork-App oder Website nicht mehr öffnen. Die Buchung läuft komplett im Gespräch mit ChatGPT ab.",
+      "was_bedeutet_das": "Deine Reservierungen könnten steigen. Gäste buchen jetzt spontaner, weil es bequemer ist. Du musst aber sicherstellen, dass dein Restaurant auf TheFork korrekt gepflegt ist: aktuelle Zeiten, genaue Adresse, echte Fotos. ChatGPT schlägt dich nur vor, wenn deine Daten stimmen."
     },
     {
-      "titel": "Menu Engineering statt Bauchgefühl: KI zeigt, welche Gerichte Gewinn bringen",
-      "was_passiert": "Plattformen wie Tastewise analysieren Millionen Social-Media-Posts und Speisekarten. Sie zeigen dir, welche Gerichte gerade im Trend sind und wo noch Lücken in deiner Region existieren. DISH hat über 1.000 Restaurants mit Menu Engineering beraten – mit Umsatzsteigerungen bis zu 20.000 Euro/Jahr.",
-      "was_bedeutet_das": "Für dein Restaurant: Deine Karte optimiert sich nicht von selbst. Schau dir diese Woche an, welche drei Gerichte dich wirklich unterscheiden. KI kann zeigen, ob sie verkauft werden. Das spart Zeit bei Planung und Kalkulation."
+      "titel": "Menu Engineering: KI analysiert deine Trends",
+      "was_passiert": "Tools wie Tastewise und DISH scannen Millionen Social-Media-Posts. Sie zeigen dir, welche Gerichte gerade viral gehen, was deine Gäste über dein Menü sagen. Restaurants bekommen konkrete Vorschläge: dieses Gericht umbenennen, jenes weglassen, das andere stärker bewerben.",
+      "was_bedeutet_das": "Du brauchst keine teuren Marktforscher mehr. Die KI sagt dir in einer Stunde, welche Änderungen deinen Umsatz steigern. Manche Restaurants sparen damit bereits 20.000 Euro pro Jahr ein oder verdienen sie dazu. Fang mit einem Tool an und teste: Ändert sich der Absatz eines Gerichts, wenn du die Beschreibung verbesserst?"
     },
     {
-      "titel": "Gäste buchen jetzt 25 Prozent öfter: Mit Empfehlungen und sozialen Proof",
-      "was_passiert": "Laut TheFork buchen Gäste, die Restaurants empfohlen bekommen, 25 Prozent häufiger. Gleichzeitig entscheiden KI-Systeme, welche Bewertungen hochrangig erscheinen: Konkrete, detailreiche Rezensionen werden bevorzugt, generische Pauschalurteile ignoriert.",
-      "was_bedeutet_das": "Für dein Restaurant: Bitte diese Woche gezielt um echte Gästebewertungen mit Details. Je spezifischer die Bewertung (z.B. 'Das Lamm war perfekt rosa'), desto KI-freundlicher wird sie. Das erhöht deine Sichtbarkeit in ChatGPT und bei Buchungen."
+      "titel": "Bewertungen schreiben: Qualität statt Masse",
+      "was_passiert": "KI-Bewertungssysteme haben dazugelernt. Sie bevorzugen jetzt konkrete, detaillierte Rezensionen. Eine generische Bewertung wie 'Sehr lecker, gerne wieder' wird ignoriert. Eine Bewertung wie 'Pasta al Carbonara perfekt al dente, Ricotta statt Creme, korrekt umgesetzt' wird bevorzugt und erhöht deine Sichtbarkeit.",
+      "was_bedeutet_das": "Deine Gäste sollen nicht einfach nur fünf Sterne geben. Sie sollen konkret schreiben, warum es gut war. Das wirkt auf KI-Empfehlungssysteme stärker. Restaurants mit vielen detaillierten Bewertungen bekommen 25% mehr Buchungen über KI-vermittelte Kanäle. Bitte deine Gäste beim Bezahlen: 'Schreib kurz, was du geliebt hast.' Konkrete Details helfen mehr als Lob."
     }
   ],
-  "handlungsempfehlung": "Audit dein Online-Profil: Prüfe diese Woche deine Einträge auf OpenTable, TheFork, Google Business. Fotos aktuell? Öffnungszeiten korrekt? Speisekarte online? Nur 30 Minuten – diese Infos entscheiden, ob ChatGPT dein Restaurant empfiehlt oder nicht.",
+  "handlungsempfehlung": "Prüf diese Woche dein TheFork-Profil: Sind alle Öffnungszeiten, Fotos und Gerichte aktuell? Das ist die Voraussetzung, damit ChatGPT dich empfiehlt. Dann starte ein Experiment: Ändere die Beschreibung bei einem populären Gericht und beobachte zwei Wochen, ob die Bestellungen steigen. Das kostet dich 20 Minuten.",
   "seo": {
-    "title": "KI-Buchungen: So findest du 70% der Gäste 2026 | KW 2",
-    "metaDescription": "KW 2 2026: ChatGPT bucht jetzt direkt. Dein Restaurant muss sichtbar sein. Kostenlos prüfen.",
-    "keywords": "KI-Suche Restaurant, ChatGPT Reservierung, OpenTable AI, TheFork Buchung, KI Sichtbarkeit Gastro",
+    "title": "TheFork + ChatGPT: Buchungen via Chat | KI-Gastro KW 2",
+    "metaDescription": "KW 2 2026: TheFork integriert ChatGPT. Menu-Engineering steigert Umsatz um 20.000€. Bewertungsqualität entscheidet über KI-Empfehlungen.",
+    "keywords": "TheFork ChatGPT, Menu Engineering Gastronomie, KI-Bewertungen Restaurant, KI-Buchungen",
     "canonicalUrl": "https://ai-gastro-hub.vercel.app/newsroom/kw-2-2026",
     "datePublished": "2026-01-12T10:00:00.000Z",
     "internalLinks": [
       {
-        "url": "https://aeo-gastro.vercel.app",
-        "text": "Prüfe kostenlos, ob ChatGPT dein Restaurant findet"
+        "url": "https://agentready-gastro.vercel.app",
+        "text": "Prüfe ob KI-Agenten bei dir buchen können"
+      },
+      {
+        "url": "https://geo-gastro.vercel.app",
+        "text": "Kostenloser KI-Reputations-Check für dein Restaurant"
       }
     ]
   },
-  "generatedAt": "2026-03-18T19:08:33.124Z"
+  "generatedAt": "2026-03-18T19:19:22.867Z"
 }
