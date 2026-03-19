@@ -14,17 +14,19 @@ export default function NewsroomOverview() {
 
   return (
     <main className="max-w-3xl mx-auto px-4 py-16">
-      <div className="flex items-center gap-4 mb-3">
+      <div className="flex items-start gap-4 mb-12">
         <img
           src="/newsroom-icon.png"
           alt="KI-Gastro-Newsroom"
-          className="w-10 h-10 rounded-lg object-cover"
+          className="w-16 h-16 rounded-xl object-cover flex-shrink-0"
         />
-        <h1 className="text-3xl font-bold text-white">KI-Insider für Gastro. Jeden Montag.</h1>
+        <div>
+          <h1 className="text-3xl font-bold text-white">KI-Insider für Gastro. Jeden Montag.</h1>
+          <p className="text-gray-400 text-base mt-1">
+            Wer das nicht liest, erfährt es von der Konkurrenz.
+          </p>
+        </div>
       </div>
-      <p className="text-gray-400 mb-12 text-base" style={{ marginLeft: '56px' }}>
-        Wer das nicht liest, erfährt es von der Konkurrenz.
-      </p>
 
       {articles.length === 0 ? (
         <p className="text-gray-500 text-sm">Erster Beitrag erscheint nächsten Montag.</p>
