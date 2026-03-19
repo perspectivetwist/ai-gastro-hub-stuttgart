@@ -24,6 +24,8 @@ export default function ProductsSection() {
             {/* AEO Scanner */}
             <a
               href="https://aeo-gastro.vercel.app"
+              target="_blank"
+              rel="noopener noreferrer"
               className="flex gap-0 rounded-lg overflow-hidden transition-all duration-200 hover:scale-[1.02]"
               style={{ background: "rgba(0,0,0,0.4)" }}
             >
@@ -56,6 +58,8 @@ export default function ProductsSection() {
             {/* GEO Scanner */}
             <a
               href="https://geo-gastro.vercel.app"
+              target="_blank"
+              rel="noopener noreferrer"
               className="flex gap-0 rounded-lg overflow-hidden transition-all duration-200 hover:scale-[1.02]"
               style={{ background: "rgba(0,0,0,0.4)" }}
             >
@@ -102,6 +106,8 @@ export default function ProductsSection() {
           </div>
           <a
             href="https://agentready-gastro.vercel.app"
+            target="_blank"
+            rel="noopener noreferrer"
             className="flex gap-0 rounded-lg overflow-hidden transition-all duration-200 hover:scale-[1.02] max-w-[calc(50%-0.5rem)]"
             style={{ background: "rgba(0,0,0,0.4)" }}
           >
@@ -146,6 +152,8 @@ export default function ProductsSection() {
           </div>
           <a
             href="https://aisecurity-gastro.vercel.app"
+            target="_blank"
+            rel="noopener noreferrer"
             className="flex gap-0 rounded-lg overflow-hidden transition-all duration-200 hover:scale-[1.02] max-w-[calc(50%-0.5rem)]"
             style={{ background: "rgba(0,0,0,0.4)" }}
           >
