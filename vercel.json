@@ -3,6 +3,12 @@
   "redirects": [
     {
       "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "ai-gastro-hub-stuttgart.vercel.app"
+        }
+      ],
       "destination": "https://www.ki-gastronomie.com/staedte/stuttgart/$1",
       "permanent": true
     }
